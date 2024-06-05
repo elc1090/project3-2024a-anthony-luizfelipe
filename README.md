@@ -9,9 +9,9 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 
 ## Estrutura do Projeto
 
-- `frontend/`: Código fonte do front-end (React).
-- `backend/`: Código fonte do back-end (Express.js).
-- `database/`: Scripts e configurações do banco de dados (PostgreSQL).
+- [`frontend/`](frontend/): Código fonte do front-end (React).
+- [`backend/`](backend/): Código fonte do back-end (Express.js).
+- [`database/`](database/): Scripts e configurações do banco de dados (PostgreSQL).
 
 ## Tecnologias Utilizadas
 
