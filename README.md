@@ -30,6 +30,11 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 4. Faça push para a branch (`git push origin feature/nome-da-feature`).
 5. Abra um Pull Request.
 
+## Criadores
+
+- [Anthony Carlos da Silva](https://github.com/anthony-c-silva)
+- [Luiz Felipe Cavalheiro](https://github.com/luizfpc)
+  
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
