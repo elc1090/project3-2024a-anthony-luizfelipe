@@ -6,7 +6,7 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 
 - [Documento de Visão](./docs/Visao.md)
 - [Documento de Requisitos](./docs/Requisitos.md)
-- [Diagrama Entidade Relacionamento](./docs/Diagrama_Entidade_Relacionamento.md?plain=1)
+- [Diagrama Entidade Relacionamento](https://github.com/elc1090/project3-2024a-anthony-luizfelipe/blob/main/docs/Diagrama_Entidade_Relacionamento.md?plain=1)
 
 ## Estrutura do Projeto
 
