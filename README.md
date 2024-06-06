@@ -6,6 +6,7 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 
 - [Documento de Visão](./docs/Visao.md)
 - [Documento de Requisitos](./docs/Requisitos.md)
+- [Diagrama Entidade Relacionamento](./docs/Diagrama_Entidade_Relacionamento.md?plain=1)
 
 ## Estrutura do Projeto
 
@@ -19,7 +20,7 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 - **Back-end**: Express.js
 - **Banco de Dados**: PostgreSQL
 - **ORM**: Sequelize
-- **Hospedagem do Back-end**: Vercel
+- **Hospedagem do Back-end e Front-end**: Vercel
 - **Hospedagem do Banco de Dados**: Heroku ou outro serviço de banco de dados gerenciado
 
 ## Como Contribuir
