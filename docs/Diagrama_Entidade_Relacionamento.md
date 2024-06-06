@@ -1,3 +1,9 @@
+
+
+DIAGRAMA ENTIDADE RELACIONAMENTO DO APP CONTROLE DE ESTOQUE PARA ABRIGOS 
+
+
+
 +----------------+      +-----------------+      +------------------+
 |     Usuário    |      |     Gerencia    |      |     Abrigo       |
 |----------------|      |-----------------|      |------------------|
