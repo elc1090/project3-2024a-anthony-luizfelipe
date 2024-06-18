@@ -20,7 +20,8 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 - **Back-end**: Express.js
 - **Banco de Dados**: PostgreSQL
 - **ORM (Object-Relational Mapping)**: Sequelize 
-- **Hospedagem do Back-end e Front-end**: Vercel
+- **Hospedagem do Back-end**: Vercel
+- **Hospedagem do Front-end**: Netlify
 - **Hospedagem do Banco de Dados**: Heroku ou outro serviço de banco de dados gerenciado
 
 ## Como Contribuir
