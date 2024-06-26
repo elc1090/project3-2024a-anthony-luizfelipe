@@ -37,6 +37,3 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 - [Anthony Carlos da Silva](https://github.com/anthony-c-silva)
 - [Luiz Felipe Cavalheiro](https://github.com/luizfelipecavalheiro)
   
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
