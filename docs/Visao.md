@@ -72,11 +72,11 @@ Voluntários que auxiliam na gestão do estoque também poderão usar o sistema 
 
 ## 6. Tecnologias Utilizadas
 - **Front-end**: React
-- **Back-end**: Express.js
+- **Back-end**: Node.js com Type Script
 - **Banco de Dados**: PostgreSQL
-- **ORM**: Sequelize
-- **Hospedagem do Back-end**: Vercel
-- **Hospedagem do Banco de Dados**: Heroku ou outro serviço de banco de dados gerenciado
+- **ORM**: Prisma
+- **Hospedagem do Back-end**: Render
+- **Hospedagem do Banco de Dados**: Render
 
 ## 7. Conclusão
 Este documento de visão fornece um panorama completo do projeto de Controle de Estoque para Abrigos, estabelecendo uma base sólida para o desenvolvimento e implementação do sistema. O próximo passo é iniciar o desenvolvimento conforme as especificações aqui descritas, garantindo que todos os requisitos sejam atendidos e que o sistema seja entregue com sucesso aos usuários finais.
