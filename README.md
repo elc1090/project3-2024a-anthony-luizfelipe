@@ -17,7 +17,7 @@ Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, in
 ## Tecnologias Utilizadas
 
 - **Front-end**: React
-- **Back-end**: Express.js
+- **Back-end**: Node.js
 - **Banco de Dados**: PostgreSQL
 - **ORM (Object-Relational Mapping)**: Sequelize 
 - **Hospedagem do Back-end**: Vercel
