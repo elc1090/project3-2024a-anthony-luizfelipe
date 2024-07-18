@@ -45,10 +45,10 @@ https://endearing-starship-fe8800.netlify.app/
 ![Tela de cadastro de voluntario](./images/tela_cadastro_voluntario.png)
 
 #### Tela de dashboard de admin
-![Tela dashboard de administrador](./images/tela_admin.png)
+![Tela dashboard de administrador](./images/tela-admin.png)
 
 #### Tela de dashboard de voluntario
-![Tela dashboard de voluntario](./images/tela_voluntario.png)
+![Tela dashboard de voluntario](./images/tela-voluntario.png)
 
 ## Documentação
 
