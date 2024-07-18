@@ -25,6 +25,16 @@ https://endearing-starship-fe8800.netlify.app/
 - Pode realizar buscas para filtrar as informações desejadas clicando no botão `Buscar Item`, para ver toda a tabela novamente, basta um clique no botão `Mostrar Tudo`;
 - É possível fazer login e se deslogar clicando no seu nome e na sequência clicando na opção ```Sair```;
 
+#### Para utilizar um abrigo já existente com vários itens já cadastrados:
+  
+  - **Administrador**:
+    - Login: `anthony@gmail.com`
+    - Senha: `1234`
+  
+  - **Voluntário**:
+    - Login: `baidu@gmail.com`
+    - Senha: `1234Abcd!`
+
 #### Tela de Login
 ![Tela Login](./images/tela_login.png)
 
