@@ -1,9 +1,44 @@
 # Controle de Estoque para Abrigos
 
-Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, incluindo o registro de doações e a estimativa de necessidades futuras.
+Este projeto visa desenvolver um sistema para gerenciar o estoque de abrigos, permitindo que administradores e voluntarios possam realizar consultas, acréscimos e decréscimos no estoque.
 
 ### Deploy: 
 https://endearing-starship-fe8800.netlify.app/
+
+#### Tela Inicial
+![Tela Inicial](./images/tela_inicial.png)
+
+### Sobre o sistema:
+
+#### Permissões de administrador:
+
+- Cadastro de `administrador` que durante o processo cria o abrigo que irá administrar;
+- O `admnistrador` pode adicionar, excluir, editar os dados do item (funções exclusivas) e também incrementar e decrementar a quantidade dos mesmos;
+- Pode realizar buscas para filtrar as informações desejadas clicando no botão `Buscar Item`, para ver toda a tabela novamente, basta um clique no botão `Mostrar Tudo`;
+- Outra ação que o `administrador` pode realizar é a exclusão do abrigo que foi criado durante o cadastro;
+- O `administrador` pode fazer login e se deslogar clicando no seu nome e na sequência clicando na opção ```Sair```;
+
+#### Permissões de voluntário:
+
+- Cadastro de `voluntario` que durante este processo seleciona um abrigo existente para ser voluntário;
+- O `voluntario` pode incrementar e decrementar a quantidade de itens existentes no abrigo;
+- Pode realizar buscas para filtrar as informações desejadas clicando no botão `Buscar Item`, para ver toda a tabela novamente, basta um clique no botão `Mostrar Tudo`;
+- É possível fazer login e se deslogar clicando no seu nome e na sequência clicando na opção ```Sair```;
+
+#### Tela de Login
+![Tela Login](./images/tela_login.png)
+
+#### Tela de cadastro de administrador
+![Tela de cadastro de administrador](./images/tela_cadastro_admin.png)
+
+#### Tela de cadastro de voluntario
+![Tela de cadastro de voluntario](./images/tela_cadastro_voluntario.png)
+
+#### Tela de dashboard de admin
+![Tela dashboard de administrador](./images/tela_admin.png)
+
+#### Tela de dashboard de voluntario
+![Tela dashboard de voluntario](./images/tela_voluntario.png)
 
 ## Documentação
 
